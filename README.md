@@ -13,7 +13,10 @@ My Bookshelf App is an **Android book tracking application** that allows users t
 - 📱 Bottom navigation to switch between book categories
 - 🔄 Full **CRUD operations** using SQLite
 - 🧪 Basic **UI testing with Espresso**
-<img width="880" height="1780" alt="listview" src="https://github.com/user-attachments/assets/35f9c6a0-bcd5-4f66-a213-e9bce5105200" /><img width="882" height="1775" alt="bookinfo" src="https://github.com/user-attachments/assets/9bf103d2-c4a4-47f6-bb0b-5c4165abcbe9" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/35f9c6a0-bcd5-4f66-a213-e9bce5105200" width="250">
+  <img src="https://github.com/user-attachments/assets/9bf103d2-c4a4-47f6-bb0b-5c4165abcbe9" width="250">
+</p>
 
 ---
 
