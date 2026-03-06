@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Menu for Navigation bar -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="List"
+        android:icon="@drawable/outline_add_to_photos_24"
+        android:id="@+id/list"/>
+    <item android:title="TBR"
+        android:icon="@drawable/baseline_book_24"
+        android:id="@+id/tbr"/>
+    <item android:title="Read"
+        android:icon="@drawable/baseline_beenhere_24"
+        android:id="@+id/read"/>
+</menu>
